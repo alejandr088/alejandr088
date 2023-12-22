@@ -1,10 +1,9 @@
 ![giphy](https://github.com/alejandr088/alejandr088/assets/124618127/280360d3-be85-4aac-a4e0-2e4bcdb9e295)
 
-- 👋 Hi, I’m @alejandr088
+- 👋 Hi, I’m Alejandro, from Montevideo, Uruguay.
 - 👀 I’m interested in programming, specially front-end.
-- 🌱 I’m currently learning front & back-end at Holberton School Uruguay
-- 📫 How to reach me: 
-@alejandr088 in ig
+- 🌱 Completed Foundations of Computer Science at Holberton School Uruguay and currently seeking employment.
+- 📫 How to reach me: @alejandr088 in ig / tg
 
 
 
